@@ -1,0 +1,16 @@
+input{
+    cursor: pointer;
+    margin-top: 1rem;
+}
+input:hover{
+    background-color: azure;
+}
+.title{
+    font-size: 2rem;
+}
+.user-ul-list li.active{
+    display: none;
+}
+.user-ul-list li {
+    display: block;
+}
